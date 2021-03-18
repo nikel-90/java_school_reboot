@@ -1,7 +1,6 @@
-package ru.sber.javaschool.homework.hw1.Calculator;
+package ru.sber.javaschool.homework.hw1.calculator;
 
 import java.util.LinkedList;
-import java.util.Scanner;
 
 /*
     Программа реализующая функцию калькулятора по алгоритму - обратной польской записи.

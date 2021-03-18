@@ -1,4 +1,4 @@
-package ru.sber.javaschool.homework.hw1.Calculator;
+package ru.sber.javaschool.homework.hw1.calculator;
 
 import java.util.Scanner;
 
