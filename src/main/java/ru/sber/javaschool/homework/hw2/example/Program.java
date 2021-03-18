@@ -12,7 +12,7 @@ public class Program {
     }
 }
 
-// класс человека
+// абстрактный класс человека
 abstract class Person implements Serializable, Cloneable {
 
     private String name;
